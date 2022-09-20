@@ -1,7 +1,7 @@
 # MetricForest
 Software para análisis de datos de diversidad de especies forestales.
 
-# # Fuente de datos a utilizar 
+## Fuente de datos a utilizar 
 La fuente de datos a utilizar para el desarrollo del proyecto son tomados de la base de datos
 proporcionados por el Ing. Juan Ramón Licona Banegas, coordinador e instructor de módulo en
 negocios forestales (1).
