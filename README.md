@@ -2,7 +2,7 @@
 # MetricForest
 Software para análisis de datos de diversidad de especies forestales.
 
-## Solución del problema
+# Solución del problema
 MetricTree tiene como objetivo el manejo de datos recopilados, por los usuarios que desean hacer
 uso de esta herramienta, el programa facilitará la organización de la información, para analizar datos
 del número de especies que existen por sector/grupo/sendero, identificar que tan diversa es la zona,
