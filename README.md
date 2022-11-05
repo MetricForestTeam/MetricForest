@@ -22,6 +22,13 @@ La fuente de datos a utilizar para el desarrollo del proyecto son tomados de la 
 proporcionados por el Ing. Juan Ramón Licona Banegas, coordinador e instructor de módulo en
 negocios forestales (1).
 
+#	Resultados y discusiones (Graficas)
+
+## Ejemplo de Gráficas y subsecciones
+
+<img height="400" src="https://raw.githubusercontent.com/MetricForestTeam/MetricForest/master/grafica-especie-sector.png" align="middle">
+
+
 # Referencias
 1.) https://alumnizamorano-my.sharepoint.com/:x:/g/personal/marian_mendez_est_zamorano_edu/ERkSFY8Vwv9DgUXVNKXu5FgBUdHMmxznnPkuHu_FEzK0ZA?e=s5Rx4e
 
