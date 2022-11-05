@@ -26,7 +26,7 @@ negocios forestales (1).
 
 ## Ejemplo de Gráficas y subsecciones
 
-<img height="400" src="https://raw.githubusercontent.com/MetricForestTeam/MetricForest/master/grafica-especie-sector.png" align="middle">
+<img height="400" src="https://raw.githubusercontent.com/MetricForestTeam/MetricForest/main/grafica-especie-sector.png" align="middle">
 
 
 # Referencias
